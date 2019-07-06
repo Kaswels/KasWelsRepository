@@ -7,3 +7,6 @@ Hosue
 Computer
 car
 Airplain
+
+Land 
+Building
