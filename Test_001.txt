@@ -1,0 +1,9 @@
+thsi is the first file for purchase
+
+the following items purchased
+Book
+CD
+Hosue
+Computer
+car
+Airplain
